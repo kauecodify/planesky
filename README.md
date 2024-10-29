@@ -13,6 +13,9 @@ antes de inciar a documentação baixar pygame utilizando o comando no terminal
 
 ![image](https://github.com/user-attachments/assets/6ad9d44c-a2e1-4ea5-a9cf-ea672fcc7794)
 
+![image](https://github.com/user-attachments/assets/8d46c448-c757-4551-a0ea-1a814a501bed)
+
+
 
 
 
